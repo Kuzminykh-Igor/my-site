@@ -11,4 +11,3 @@
 |:-:|:-|
 | ![Telegram](img/telegram.png) | [Telegram](https://t.me/iSkaner "Пиши, не стесняйся!") |
 | ![VK](img/vk.png) | [ВКонтакте](https://vk.com/x_skan "Ты это, заходи если чё...") |
-|||
